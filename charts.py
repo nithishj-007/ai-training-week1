@@ -1,3 +1,7 @@
+# Task 2: Git and GitHub Workflow
+# Four chart visualization using Matplotlib
+# Feature branch: feature/add-charts
+
 """Generate four sample charts in a 2x2 Matplotlib figure."""
 from pathlib import Path
 import matplotlib.pyplot as plt
